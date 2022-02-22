@@ -41,7 +41,6 @@ function initSnake(color) {
 }
 let snake1 = initSnake("purple");
 let snake2 = initSnake("blue");
-let snake3 = initSnake("green");
 
 let apple = {
     position: initPosition(),
